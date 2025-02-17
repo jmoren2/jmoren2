@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in PDX
 * ✉️  You can contact me at [morenojosh18@gmail.com](mailto:morenojosh18@gmail.com)
-* ⚡  Senior Software Engineer @ Hoffman Academy.
+* ⚡  Software Engineer @ Hoffman Academy.
 
 ### Skills
 
